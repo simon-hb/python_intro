@@ -1,0 +1,2 @@
+Welcome to BrainStation's Python for Data Science Training Course!
+Today you will learn:
